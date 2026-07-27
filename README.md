@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ayush 👋</h1>
 
-<!--
-**Ayush442842q/Ayush442842q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Student by day · 🛠️ Open source contributor by night · Love messing with systems
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://x.com/chernobyll11"><img src="https://img.shields.io/badge/X-@chernobyll11-000000?style=flat&logo=x"></a>
+  <a href="https://github.com/Ayush442842q"><img src="https://img.shields.io/badge/GitHub-Ayush442842q-181717?style=flat&logo=github"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+- 🎓 Currently studying, and building things on the side
+- 🌱 Contributing to open source projects I actually use
+- 🦀 Learning to think in Rust, 🐍 shipping fast in Python, ⚡ scripting the web in TypeScript/JavaScript
+- 🔧 I like tools that get out of your way — CLIs, GUIs for things that shouldn't need a browser, and anything that saves a few keystrokes
+
+### 🔭 Currently Building
+
+**[PenguinGit](https://github.com/Ayush442842q/PenguinGit)** — a powerful, open-source Git GUI built exclusively for Linux. Visual commit graph, interactive rebasing, visual merge conflict resolution, and repo management, all without leaving the desktop.
+
+### Other Projects
+
+| Project | Description |
+|---|---|
+| [Groq-Based-chatbot](https://github.com/Ayush442842q/Groq-Based-chatbot) | A chatbot built on top of Groq's inference speed |
+| [perplexity-model-council](https://github.com/Ayush442842q/perplexity-model-council) | Experimenting with multi-model "council" style reasoning |
+| [Python-tools](https://github.com/Ayush442842q/Python-tools) | A self-maintained Python toolkit |
+
+### 🛠️ Tech I Reach For
+
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayush442842q&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush442842q&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush442842q&theme=radical&hide_border=true" />
+</p>
+
+---
+
+<p align="center"><i>Find me tinkering with terminals, Git internals, or whatever breaks next.</i></p>
