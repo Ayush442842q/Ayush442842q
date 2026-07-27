@@ -22,6 +22,13 @@
 
 **[PenguinGit](https://github.com/Ayush442842q/PenguinGit)** — a powerful, open-source Git GUI built exclusively for Linux. Visual commit graph, interactive rebasing, visual merge conflict resolution, and repo management, all without leaving the desktop.
 
+### 🌱 Open Source Contributions
+
+| PR | Project | What it fixed |
+|---|---|---|
+| [#13402](https://github.com/pnpm/pnpm/pull/13402) | pnpm/pnpm | Fixed named-registry/JSR specifier rewriting in pnpm's Rust resolver (`pacquet`) for `update --latest` |
+| [#13124](https://github.com/pnpm/pnpm/pull/13124) | pnpm/pnpm | Fixed `peerDependencies` incorrectly overriding real dependency version precedence when computing current specifiers |
+
 ### Other Projects
 
 | Project | Description |
