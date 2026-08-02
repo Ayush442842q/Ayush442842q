@@ -20,7 +20,7 @@
 
 ### 🔭 Currently Building
 
-**[PenguinGit](https://github.com/Ayush442842q/PenguinGit)** — a powerful, open-source Git GUI built exclusively for Linux. Visual commit graph, interactive rebasing, visual merge conflict resolution, and repo management, all without leaving the desktop.
+**[PenguinGit](https://github.com/Ayush442842q/Penguin-Git)** — a powerful, open-source Git GUI built exclusively for Linux. Visual commit graph, interactive rebasing, visual merge conflict resolution, and repo management, all without leaving the desktop.
 
 ### 🛠️ Projects Built
 **[Claude-app-for-Fedora](https://github.com/Ayush442842q/Claude-app-for-Fedora)** - Repacked the Anthropic's official `.deb` package into `rpm` so fedora and other RPM based flavors.
